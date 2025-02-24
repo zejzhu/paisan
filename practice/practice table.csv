@@ -1,0 +1,8 @@
+species,name,age,color,weight (g),sex,alive
+budgie,schwaden,8,white,35,m,TRUE
+budgie,turkey,6,blue,39,f,TRUE
+budgie,chester,7,blue,33,m,FALSE
+budgie,lola,6,green,36,f,FALSE
+mourning dove,pidgey,5,grey,156,m,FALSE
+linnie,mr hall jr,1,blue,46,f,TRUE
+egg,gudetama,0,yellow,60,none,TRUE
